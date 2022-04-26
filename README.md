@@ -1,2 +1,2 @@
 # Instaverse
-Instaverse digital marketing agency
+Instaverse digital marketing agency, Marketin services
