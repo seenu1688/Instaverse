@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Instaverse/static/css/main.50022a3a.chunk.css",
+    "main.js": "/Instaverse/static/js/main.f79b7dbd.chunk.js",
+    "main.js.map": "/Instaverse/static/js/main.f79b7dbd.chunk.js.map",
+    "runtime-main.js": "/Instaverse/static/js/runtime-main.4649fa95.js",
+    "runtime-main.js.map": "/Instaverse/static/js/runtime-main.4649fa95.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/Instaverse/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.0f4f52c2.chunk.js": "/Instaverse/static/js/2.0f4f52c2.chunk.js",
+    "static/js/2.0f4f52c2.chunk.js.map": "/Instaverse/static/js/2.0f4f52c2.chunk.js.map",
+    "index.html": "/Instaverse/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/Instaverse/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.50022a3a.chunk.css.map": "/Instaverse/static/css/main.50022a3a.chunk.css.map",
+    "static/js/2.0f4f52c2.chunk.js.LICENSE.txt": "/Instaverse/static/js/2.0f4f52c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4649fa95.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.0f4f52c2.chunk.js",
+    "static/css/main.50022a3a.chunk.css",
+    "static/js/main.f79b7dbd.chunk.js"
+  ]
+}
